@@ -1,0 +1,13 @@
+Type transaction |            description             
+-----+------------------------------------
+  0 | Card-Swiped
+  1 | MOTO/Card Not Present
+  2 | MOTO/Recurring
+  3 | Installment Payment
+  4 | Card Present, Manually Keyed
+  5 | Secure/Authenticated E-commerce
+  6 | Non-Authenticated E-commerce
+  7 | E-commerce with SSL/TLS Encryption
+  8 | Non-Secure E-Commerce
+  9 | Recurring E-commerce
+ 10 | Point of sale Payment
