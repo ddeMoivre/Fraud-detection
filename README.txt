@@ -14,6 +14,3 @@ A NOTER que l'historique est incomplet, il existe des transactions dont on ne co
 
 OBJECTIFS : A partir des fichers de test, test_data.csv, test_historique.csv, il faut prédire les fraudes. La métrique utilisée pour évaluer la performance sera l'aire sous la courbe ROC (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html)
 
-
-
-RENDU ATTENDU : Les résultats seront évalués à l'aide d'un fichier pred_fraud.csv fournit par le candidat qui sera comparé aux données réelles (que n'a pas le candidat). Par ailleurs le candidat devrat envoyer un fichier Python commenté (ou notebook Python) contenant le code qui aura permis de parvenir à la solution. Le candidat profitera des commentaires de son code pour faire comprendre aux évaluateurs quelle aura été sa démarche intellectuelle.
